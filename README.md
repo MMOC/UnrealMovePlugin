@@ -1,2 +1,2 @@
-# Unreal FoldersMovePlugin
-a ue4 MoveFolders Plugin
+# Unreal contentBrowser FoldersMove Plugin
+you can Move your folders within the file to a specific folder.
